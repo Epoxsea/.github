@@ -4,4 +4,7 @@
 
 Here are soe documents for you to start:
 
-* [notes](https://github.com/Epoxsea/notes)
+* [Development Flow]()
+* [How to use Github]()
+* [Technical Notes](https://github.com/Epoxsea/notes)
+

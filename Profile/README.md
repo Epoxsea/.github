@@ -1,10 +1,7 @@
 # Welcome to Epoxsea
 
-### Intro
+## Useful resources
+Here are some useful resources that written/build by us, feel free to use it.
 
-Here are soe documents for you to start:
-
-* [Development Handbook]()
-* [Github Handbook](https://github.com/Epoxsea/notes/blob/main/Writerside/topics/Misc/GitHub%20Handbook/GitHub%20Handbook.md) <--- **EVERY PPL GO TO WATCH THIS FIRST!!!!!**
-* [Technical Notes](https://github.com/Epoxsea/notes)
-
+1. Technical Notes [https://sw.epoxsea.com/readme.html](https://sw.epoxsea.com/readme.html)
+2. Orca Slicer Setting [https://github.com/Epoxsea/OrcaSetting](https://github.com/Epoxsea/OrcaSetting)
